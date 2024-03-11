@@ -124,11 +124,12 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: "Strelitzia";
+    content: "Strelitzia"url(https://strelitzia.in);
     font-size: 28px;
     font-weight: 600;
     left: 10px;
     position: absolute;
     top: 18px;
+    
 }
 
