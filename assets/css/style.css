@@ -7251,7 +7251,7 @@ a.dark-logo {
 <!--Start About-inner Area-->
 <!-- ========================================-->*/
 .about-area.inner {
-    padding: 88px 0 0px;
+    padding: 88px 0 0px !important;
 }
 
 .inner.about-area .col-lg-6.upper {
